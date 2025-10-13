@@ -5,3 +5,5 @@
 
 # 自定义 deeplx 服务器
 DOMAIN,api.deeplx.org
+DOMAIN-SUFFIX,deeplx.org
+DOMAIN-KEYWORD,deeplx
