@@ -60,7 +60,7 @@ ruleset=🎥 PrimeVideo,[]GEOSITE,primevideo
 ;Emby 包括主流 Emby 服务相关域名
 ruleset=🎥 Emby,[]GEOSITE,category-emby
 ;我的自定义 Emby 服务器
-ruleset=🎥 Emby,https://raw.githubusercontent.com/utada1stlove/Custom_OpenClash_Rules/refs/heads/main/diy/domain/myemby.list,28800
+ruleset=🎥 我的Emby,https://raw.githubusercontent.com/utada1stlove/Custom_OpenClash_Rules/refs/heads/main/diy/domain/myemby.list,28800
 ruleset=🎻 Spotify,[]GEOSITE,spotify
 ruleset=📺 Bahamut,[]GEOSITE,bahamut
 ruleset=🎮 游戏平台,[]GEOSITE,category-games
