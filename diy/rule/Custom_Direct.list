@@ -62,7 +62,7 @@ ruleset=🎥 Emby,[]GEOSITE,category-emby
 ;我的自定义 Emby 服务器
 ruleset=🎥 我的Emby,https://raw.githubusercontent.com/utada1stlove/Custom_OpenClash_Rules/refs/heads/main/diy/domain/myemby.list,28800
 ;我的自定义 diy 服务器
-ruleset=🌐 我的diy,https://raw.githubusercontent.com/utada1stlove/Custom_OpenClash_Rules/refs/heads/main/diy/domain/direct.list 
+ruleset=🌐 我的diy,https://raw.githubusercontent.com/utada1stlove/Custom_OpenClash_Rules/refs/heads/main/diy/domain/direct.list,28800
 ruleset=🎻 Spotify,[]GEOSITE,spotify
 ruleset=📺 Bahamut,[]GEOSITE,bahamut
 ruleset=🎮 游戏平台,[]GEOSITE,category-games
