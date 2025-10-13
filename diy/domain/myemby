@@ -1,0 +1,9 @@
+;我的自定义 Emby 服务器
+ruleset=🎥 我的Emby,[]DOMAIN,cdn3.jiedaibao.gs
+ruleset=🎥 我的Emby,[]DOMAIN,lax.sexemby.com
+ruleset=🎥 我的Emby,[]DOMAIN,cn2.sexemby.com
+ruleset=🎥 我的Emby,[]DOMAIN,jpvol3.sexemby.com
+ruleset=🎥 我的Emby,[]DOMAIN,cdn.lilyemby.my
+ruleset=🎥 我的Emby,[]DOMAIN,tx.lilyemby.my
+ruleset=🎥 我的Emby,[]DOMAIN,www.lilyemby.my
+ruleset=🎥 我的Emby,[]DOMAIN,cdn.sexemby.com
