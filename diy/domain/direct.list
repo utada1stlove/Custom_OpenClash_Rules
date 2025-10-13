@@ -1,0 +1,7 @@
+# NAME: Custom_direct
+# AUTHOR: utada
+# REPO: https://github.com/utada1stlove/Custom_OpenClash_Rules/
+# 自定义 直连 服务器列表
+
+# 自定义 deeplx 服务器
+DOMAIN,api.deeplx.org
