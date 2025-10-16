@@ -7,3 +7,9 @@
 DOMAIN,api.deeplx.org
 DOMAIN-SUFFIX,deeplx.org
 DOMAIN-KEYWORD,deeplx
+
+# 国内的ai服务
+DOMAIN,api.deeplx.org
+DOMAIN,aicnn.xyz
+DOMAIN-SUFFIX,aicnn.xyz
+DOMAIN-KEYWORD,aicnn
