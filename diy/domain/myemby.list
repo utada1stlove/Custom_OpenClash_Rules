@@ -18,6 +18,18 @@ DOMAIN,lax.sexemby.com
 DOMAIN,hk.sexemby.com
 DOMAIN,jp4837.direct.sexemby.com
 
+# NSFW
+## jable
+DOMAIN,jable.tv
+DOMAIN,assets.jable.tv
+DOMAIN,assets-cdn.jable.tv
+DOMAIN-KEYWORD,jable
+## MissAV
+DOMAIN,missav.ai
+DOMAIN,missav.ws
+DOMAIN,client-rapi-missav.recombee.com
+DOMAIN-KEYWORD,missav
+
 # DIYDomian
 DOMAIN-SUFFIX,xsnvshen.co
 DOMAIN,img.xsnvshen.co
